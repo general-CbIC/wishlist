@@ -1,8 +1,11 @@
 # Вишлист
 
-- 🙏🏻 [Apple Watch Ultra](https://www.apple.com/apple-watch-ultra-3/)
+## 🙏🏻 Хотелочки
 
-## ✅ Задарено
+- 🙏🏻 [Apple Watch Ultra](https://www.apple.com/apple-watch-ultra-3/)
+- 🙏🏻 [Блютуз адаптер для электро гитары](./guitar-adapter.md)
+
+## ✅ Уже задарено
 
 - ✅ [Умное кольцо или фитнес-браслет](./smart-ring-or-fitness-bracelet.md)
 - ✅ [Ирригатор для полости рта](./xiaomi-water-flosser-2.md)
